@@ -1,1 +1,1 @@
-# Pixelfight V.1.0.0
+[PixelFight_Setup.exe herunterladen](https://github.com/ShadowDev008/pixelfighter/releases/latest/download/PixelFight_Setup.exe)
