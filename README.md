@@ -1,1 +1,1 @@
-[PixelFight_Setup.exe herunterladen](https://github.com/ShadowDev008/pixelfighter/releases/latest/download/PixelFight_Setup.exe)
+[PixelFight_Setup.exe herunterladen](https://github.com/ShadowDev008/pixelfighter/releases/latest/download/PixelFightLauncher.exe)
